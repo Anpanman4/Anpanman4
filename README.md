@@ -17,12 +17,13 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="24">
 </p>
 
-### 🏆 Моя статистика:
+### 💪 Стараюсь заниматься codewars:
 [![Codewarrior Profile Badges](https://www.codewars.com/users/Anpanman/badges/large)](codewars)
 
 <br />
 
-[![Anpanman4 GitHub stats](https://github-readme-stats.vercel.app/api?username=Anpanman4&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anpanman4&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+### 🏆 Моя статистика:
+[![Anpanman4 GitHub stats](https://github-readme-stats.vercel.app/api?username=Anpanman4&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anpanman4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [codewars]: https://www.codewars.com/users/Anpanman "Ссылка на codewars профиль"
