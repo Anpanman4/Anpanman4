@@ -17,6 +17,8 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="24">
 </p>
 
+[Ссылка на учебный гит с университета](https://github.com/9Anpanman)
+
 Если хочешь связаться со мной пиши мне на [Email](https://kondratev-alesha69@mail.ru) или [Telegram](https://t.me/AnpanmanF)
 
 ### 💪 Стараюсь заниматься codewars:
